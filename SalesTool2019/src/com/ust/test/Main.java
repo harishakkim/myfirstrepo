@@ -11,7 +11,7 @@ public class Main {
 	private static void displayGreeting() {
 		System.out.println("HELLO");
 		System.out.println("second user");
-		
+		System.out.println("yeeha");
 	}
 
 }
